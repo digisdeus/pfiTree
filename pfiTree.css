@@ -1,0 +1,19 @@
+﻿/*list icons*/
+.parent-closed
+{
+	-moz-user-select: none;
+	list-style-image: url("directory.png");
+	cursor:pointer;
+}
+.parent-open
+{
+	-moz-user-select: none;
+	list-style-image: url("folder_open.png");
+	cursor:pointer;
+}
+.child
+{
+	-moz-user-select: none;
+	list-style-image: url("file.png");
+	cursor:pointer;
+}
