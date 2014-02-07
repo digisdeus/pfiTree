@@ -3,8 +3,8 @@
 	"title": "Paramount Farms Intl. Tree View Creator",
 	"description": "This plugin allows you to turn a <ul> element into a tree view.",
 	"keywords":[
-		'Tree',
-		'TreeView'
+		"Tree",
+		"TreeView"
 	 ],
 	"version": "1.0.2",
 	"author":{
