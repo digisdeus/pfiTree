@@ -2,9 +2,11 @@
 	"name": "pfiTree",
 	"title": "Paramount Farms Intl. Tree View Creator",
 	"description": "This plugin allows you to turn a <ul> element into a tree view.",
-	"keyword":[
+	"keywords":[
+		'Tree',
+		'TreeView'
 	 ],
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"author":{
 		"name":"Jason Hester - Working for Paramount Farms Intl.",
 		"url":"http://www.paramountfarms.com"
